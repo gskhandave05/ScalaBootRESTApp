@@ -1,0 +1,4 @@
+-- insert into phone(id, name, homeNumber, cellPhone) values (1, 'Test Phone 1', '123456', '000001');
+--insert into phone(id, name, homeNumber, cellPhone) values (2, 'Test Phone 2', '543210', '000002');
+--insert into phone(id, name, homeNumber, cellPhone) values (3, 'Test Phone 3', '13243546', '000003');
+--insert into phone(id, name, homeNumber, cellPhone) values (4, 'Test Phone 4', '9999999', '000004');
